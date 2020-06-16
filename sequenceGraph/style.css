@@ -1,0 +1,12 @@
+.main.container {
+	margin-top: 2em;
+}
+
+#welcome {
+	width: 60%;
+	margin: auto;
+}
+
+.hidden {
+	display: none;
+}
